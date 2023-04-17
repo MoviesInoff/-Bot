@@ -23,9 +23,9 @@
 
 ## Variables
 
-- [X] `BOT_TOKEN` : Bot token obtained by creating a bot from [@BotFather](https://telegram.dog/BotFather).
-- [X] `MONGODB_URI` : [MongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo).
-- [X] `ADMINS` : Telegram user ids' of bot admins seperated by spaces.
+- [X] `6050542420:AAGsAYFAEObDxAJctTCxLA-q5Q7TVRfE_uY` : Bot token obtained by creating a bot from [@BotFather](https://telegram.dog/BotFather).
+- [X] `mongodb+srv://moviesin.mnvgw6j.mongodb.net` : [MongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo).
+- [X] `5984611119` : Telegram user ids' of bot admins seperated by spaces.
 
 ## Deploy
 <details><summary>Deploy To Heroku</summary>
